@@ -6,7 +6,7 @@ So you're interested in contributing to Source-aasf? Excellent! We appreciate yo
 - Submitting a fix
 - Proposing new features
 - Becoming a maintainer
-
+- Keep contributing to open source
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
